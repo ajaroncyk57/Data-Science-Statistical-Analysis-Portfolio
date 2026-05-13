@@ -7,6 +7,7 @@ A collection of data science, statistical analysis, exploratory analytics, and m
 | Project | Focus | Status |
 |---|---|---|
 | Android App Market Analysis | Exploratory analysis of Google Play Store app metadata and user review sentiment | Uploaded / In Progress |
+| Super Bowl TV & Halftime Analysis | Exploratory analysis of Super Bowl game outcomes, TV viewership, ad trends, and halftime performances | Uploaded / In Progress |
 
 ## Tools
 
