@@ -9,6 +9,7 @@ A collection of data science, statistical analysis, exploratory analytics, and m
 | Android App Market Analysis | Exploratory analysis of Google Play Store app metadata and user review sentiment | Uploaded / In Progress |
 | Super Bowl TV & Halftime Analysis | Exploratory analysis of Super Bowl game outcomes, TV viewership, ad trends, and halftime performances | Uploaded / In Progress |
 | Nobel Prize Laureate Analysis | Exploratory analysis of Nobel Prize winners by country, gender, decade, category, repeat wins, and age trends | Uploaded / In Progress |
+| Scala GitHub Contribution Analysis | Exploratory analysis of Scala open-source pull request history, developer activity, file changes, and contribution patterns | Uploaded / In Progress |
 
 ## Tools
 
